@@ -1,7 +1,7 @@
 # COS 201 — Computer Programming I
 
 ## Student Information
-- Name:  Olofin David 
+ - Name:  Olofin David 
 - Matriculation Number: [25/18655]
 - Programme: Computer Science
 - Course: COS 201 — Computer Programming I
